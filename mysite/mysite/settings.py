@@ -60,7 +60,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangotutorial_db',
-        'USER': 'root',
+        'USER': 'mysite_user',
         'PASSWORD': 'password',
         'HOST': '',
         'PORT' : '',
