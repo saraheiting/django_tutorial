@@ -1,1 +1,7 @@
+# virtualenv on work linux machine
 venv
+
+*.pyc
+*.swp
+.DS_Store
+local_settings.py
