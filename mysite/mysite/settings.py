@@ -63,8 +63,7 @@ DATABASES = {
         'NAME': 'djangotutorial_db',
         'USER': 'mysite_user',
         'PASSWORD': 'password',
-        'HOST': '',
-        'PORT' : '',
+        'HOST': 'localhost',
     }
 }
 
